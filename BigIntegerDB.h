@@ -1,10 +1,10 @@
 #pragma once
 
-/*
-* This code is free for all purposes without any express guarantee it works.
-*
-* Author: David Burkett (davidburkett38@gmail.com)
-*/
+//
+// This code is free for all purposes without any express guarantee it works.
+//
+// Author: David Burkett (davidburkett38@gmail.com)
+//
 
 #include <vector>
 #include <string>
