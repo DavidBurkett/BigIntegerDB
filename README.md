@@ -6,7 +6,7 @@
 	- Mingw (Coming Soon)
 
 ## Dependencies
-	- gtest
+	- googletest (for testing only)
 	
 ## Features
 - Header-only
